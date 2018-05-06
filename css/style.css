@@ -1,0 +1,154 @@
+.{
+    margin: 0px;
+    padding: 0px;
+}
+/*header start*/
+.header{
+    overflow: hidden;
+    min-height: 90px;
+    width: auto;
+    background-color: #3B5998;
+}
+.header_wrapper{
+    overflow: hidden;
+    min-height: 75px;
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.header_one{
+    min-height: 30px;
+    width: 20%;
+    margin-top: 10px;
+    float: left;
+}
+.header_two{
+    overflow: hidden;
+    min-height: 75px;
+    width: 50%;
+    float: right;
+}
+.table{
+    overflow: hidden;
+    height: 30px;
+    width: auto;
+    float: left;
+}
+.pera_one{
+    float: left;
+    min-height: 20px;
+    width: 35%;
+    color: white;
+    margin-top: 14px;
+    padding-left: 66px;
+}
+.pera_two{
+     float: left;
+    min-height: 20px;
+    width: 38%;
+    color: white;
+    margin-top: 14px;
+    padding-left: 14px;
+}
+.pera_three button{
+      float: left;
+    min-height: 20px;
+    width: auto;
+    margin-top: 32px;
+    color: white;
+    background-color: #4267B2;
+    border: 1px solid #4267B2;
+}
+/*header end*/
+/*figure start*/
+.figure{
+    min-height: 500px;
+    width: auto;
+    overflow: hidden;
+    background-color: #DDE1ED;
+}
+.content{
+    min-height: 500px;
+    width: 75%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.sidebar{
+    min-height: 500px;
+    width: 50%;
+    overflow: hidden;
+    float: left;
+}
+.sidebar_one{
+    min-height: 30px;
+    width: auto;
+    color: #486580;
+    padding: 0px 18px;
+}
+.sidebar_two{}
+.aside{
+    min-height: 500px;
+    width: 45%;
+    overflow: hidden;
+    float: right;
+}
+.aside_text{
+    min-height: 10px;
+    width: auto;
+    margin-bottom: 10px;
+}
+.inputfield{
+    min-height: 25px;
+    width: 46%;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 3px 5px;
+}
+.inputbox{
+    min-height: 25px;
+    width: 95%;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 3px 5px;
+    margin-top: 5px;
+}
+.form_wrapper{
+    min-height: 10px;
+    width: auto;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.form_one{
+    width: 33%;
+    min-height: 10px;
+    float: left;
+}
+.form_two{
+    width: 67%;
+    min-height: 10px;
+    float: right;
+    font-size: 10px;
+    padding-top: 5px;
+    color: #8EA3C9;
+}
+
+/*figure end*/
+/*footer end*/
+.footer{
+    min-height: 192px;
+    width: auto;
+    overflow: hidden;
+}
+.footer_wrapper{
+    min-height: 180px;
+    width: 75%;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.footer_one{
+    min-height: 80px;
+    width: auto;
+    border-bottom: 1px solid #DDDFE2;
+}
+}
+/*footer end*/
